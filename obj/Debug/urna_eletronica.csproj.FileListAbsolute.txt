@@ -1,0 +1,12 @@
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\bin\Debug\urna_eletronica.exe.config
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\bin\Debug\urna_eletronica.exe
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\bin\Debug\urna_eletronica.pdb
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.csprojResolveAssemblyReference.cache
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.Form1.resources
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.Properties.Resources.resources
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.csproj.GenerateResource.Cache
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.exe
+c:\users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.pdb
+C:\Users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\bin\Debug\MySql.Data.dll
+C:\Users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\bin\Debug\MySql.Data.xml
+C:\Users\edvna\documents\visual studio 2015\Projects\urna_eletronica\urna_eletronica\obj\Debug\urna_eletronica.ViewCandidatos.resources

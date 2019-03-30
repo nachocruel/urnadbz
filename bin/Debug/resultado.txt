@@ -1,0 +1,20 @@
+Trunks:1
+Vegetto:1
+Vegeta:1
+Bulma:1
+Bills:1
+Trunks:2
+Vegetto:2
+Vegeta:2
+Bulma:2
+Bills:2
+Trunks:3
+Vegetto:3
+Vegeta:3
+Bulma:3
+Bills:3
+Tal Pai Pai:1
+Gohan:1
+Gurdo:1
+Androide nº18:1
+Krillin:1
